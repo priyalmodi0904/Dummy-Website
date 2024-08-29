@@ -1,0 +1,14 @@
+/* body{
+    background-color: black;
+} */
+
+
+.slider-image{
+    height:700px!important;
+    object-fit: cover;
+}
+
+.service_icon{
+    font-size:50px;
+    
+}
